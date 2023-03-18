@@ -1,2 +1,2 @@
-# odin-ruby-hangman
-A hangman game coded in ruby for TOP
+# Hangman
+A hangman game coded in ruby for The Odin Project
